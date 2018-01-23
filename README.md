@@ -1,2 +1,2 @@
-# css-grid-playlist
-Course files for the CSS Grid playlist on The Net Ninja YouTube channel.
+# Week 1_CSS Grid 
+Course files for Multimedia Design Workshop
